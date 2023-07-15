@@ -10,7 +10,7 @@ function InvitationQuote() {
                 <h3>
                     We cordially invite you to honour us with your esteemed
                     presence and blessings with Family and Friends on the
-                    auspicous occasion of the Engagement Ceremony of our elder
+                    auspicous occasion of the Wedding Ceremony of our elder
                     Daughter
                 </h3>
             </div>
