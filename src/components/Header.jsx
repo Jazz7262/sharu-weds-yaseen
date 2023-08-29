@@ -21,7 +21,7 @@ function Header() {
                 Sayyid-e-Barhaq Hazrath Sayyid Shah Taher Quadri, Al-Hamavi
                 Rahamatullaahi Alaih, Adoni,
             </h4>
-            
+
             {/* <h4 className="mt-4">
                 Qutub-ul-Aqtab Hazrath Shaikh Ahmed Bin Salaam Chisti, Al-Maroof
                 Hazrath Shaikh Sha Vali Rahamatullaahi Alaih, Yellarthi Shareef,
@@ -46,7 +46,7 @@ function Header() {
                 Shareef, Gulbarga Dist.
             </h4> */}
 
-            <div class="bg-container"></div>
+            <div className="bg-container"></div>
         </section>
     );
 }

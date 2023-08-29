@@ -132,7 +132,7 @@ function Couple() {
                             </p> */}
                             {/* <p className="mt-1 mt-lg-2"> at Alur.</p> */}
                             <p className="mt-2 mt-lg-3">
-                                S/O Janab Al-Haj
+                                S/O Janab Al-Haj{" "}
                                 <strong>K. Basheer Ahmed Sahab,</strong>
                             </p>
                             <p className="mt-1 mt-lg-2">Retired Professor.</p>

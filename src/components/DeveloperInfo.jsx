@@ -6,6 +6,7 @@ import {
     faLinkedin,
     faWhatsapp,
     faSkype,
+    faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import { faArrowUpRightFromSquare } from "@fortawesome/free-solid-svg-icons";
 import "../styles/DeveloperInfo.css";
@@ -25,7 +26,7 @@ function DeveloperInfo() {
                 init={particlesInit}
                 options={particlesConfig}
             ></Particles>
-            <div>
+            <div className="text-container">
                 <h6>Want your own Card on the Internet, Visit:</h6>
                 <a href="https://ziya-invites.netlify.app/">
                     <h4>
@@ -59,6 +60,12 @@ function DeveloperInfo() {
                 </p>
 
                 <div className="icon-section">
+                    <a
+                        href="https://www.instagram.com/ziyainvites/"
+                        className="icon-link"
+                    >
+                        <FontAwesomeIcon icon={faInstagram} size="xl" />
+                    </a>
                     <a href="https://wa.me/919573767548" className="icon-link">
                         <FontAwesomeIcon icon={faWhatsapp} size="xl" />
                     </a>
