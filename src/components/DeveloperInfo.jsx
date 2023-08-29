@@ -56,7 +56,7 @@ function DeveloperInfo() {
                 <p>
                     ziauddinziya07@gmail.com
                     <br />
-                    +91 95737 67548.
+                    +91 85550 92440.
                 </p>
 
                 <div className="icon-section">
